@@ -49,13 +49,16 @@ Make sure you have the following installed:
     npm start 
 5.**Open the app in your browser:**
 
-    Once the development server is running, open http://localhost:5173 to view the application in your browser.
+    Once the development server is running, open http://localhost:3000 to view the application in your browser.
 
 
 📝 How It Works
+
 1.Add Task:
 Enter a task in the input field and click "Add To Task" to create a new task.
+
 2.Edit Task:
 Click the 🖉 edit icon next to any task to load its value into the input field. Make changes and click "Update Task" to save.
+
 3.Delete Task:
 Click the 🗑️ trash icon to delete the task from the list.
